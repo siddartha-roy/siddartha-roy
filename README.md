@@ -8,15 +8,15 @@ Welcome to my GitHub profile! I'm a software developer with a passion for creati
 
 ## 📊 My GitHub Stats
 
-[![Siddartha's GitHub stats](https://github-readme-stats.vercel.app/api?username=c&show_icons=true&theme=radical)](https://github.com/siddartharoy)
+[![Siddartha's GitHub stats](https://github-readme-stats.vercel.app/api?username=siddartha-roy&show_icons=true&theme=radical)](https://github.com/siddartha-roy)
 
 
 ## 🔭 My Top Languages
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=siddartharoy&layout=compact&langs_count=10&theme=radical&hide_progress=true)](https://github.com/siddartharoy)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=siddartha-roy&layout=compact&langs_count=10&theme=radical&hide_progress=true)](https://github.com/siddartha-roy)
 
 ## ✨ Highlights
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=siddartharoy&row=1&column=6&margin-w=15&margin-h=15&no-frame=true&no-bg=true)](https://github.com/siddartharoy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=siddartha-roy&row=1&column=6&margin-w=15&margin-h=15&no-frame=true&no-bg=true)](https://github.com/siddartha-roy)
 
 ## 🌱 I'm currently learning ...
 <table>
